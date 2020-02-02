@@ -75,16 +75,6 @@
         printf("%d\t", A[i][j]);
         printf("\n");
     };  
-
-
-
-
-
-
-    
-
-
-
 // int getMinElementRowNumber(int **a, int size) {
 //     int minRow = 0;
 //     int minCol = 0;
@@ -98,6 +88,8 @@
 //     }
 //     return minRow;
 // }
+
+
 
 
 }
